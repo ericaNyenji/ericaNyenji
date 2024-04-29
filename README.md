@@ -7,6 +7,7 @@
 📧 Feel free to reach out to me at nyenjierica@gmail.com—I'm open to discussions, collaborations, and connecting with fellow enthusiasts in the field.
 
 ⚡ Fun fact: In my free time, I enjoy exploring new coding challenges with my friends and experimenting with different programming techniques!
+              I also really enjoy journaling😀.
 
 Looking forward to connecting and exploring the exciting possibilities together! 🚀
 <!---
