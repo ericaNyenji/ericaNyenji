@@ -1,4 +1,4 @@
-👋 Hello there! I'm Erica Mary Nyenji, and I'm passionate about coding. Currently in my second year studying Computer Science at Eötvös Loránd University, I'm eager to dive deeper into the world of technology.
+👋 Hello there! I'm Erica Mary Nyenji, and I'm passionate about coding. Currently in my last year studying Computer Science at Eötvös Loránd University, I'm eager to dive deeper into the world of technology.
 
 💻 Exploring various programming languages and concepts keeps me engaged, and I'm always on the lookout for opportunities to apply my skills in real-world scenarios.
 
